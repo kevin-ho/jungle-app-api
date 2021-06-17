@@ -1,0 +1,11 @@
+{
+  "name": "dt-technical-exercise-server",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "json-server --port 3002 --watch db.json"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
